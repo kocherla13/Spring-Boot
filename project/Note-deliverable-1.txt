@@ -1,0 +1,17 @@
+Deliverable-1.doc
+location: SEProject\project_reports\Deliverable-1.doc
+
+Gantt Chart.png (Project Plan) 
+location: SEProject\project_reports\Gantt Chart.png
+
+minutes.txt (Details of team meetings)
+location: SEProject\planning_documents\minutes.txt
+
+Directory Structure (provided in README.md)
+location: SEProject\README.md
+
+GROUP-INFO.txt (contains group details and member information)
+location: SEProject\GROUP-INFO.txt
+
+Project Source Code 
+location: SEProject\apartmentReservation

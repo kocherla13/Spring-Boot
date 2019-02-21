@@ -1,0 +1,9 @@
+Report
+location: SEProject\project_reports\Report(phase3).docx
+
+SourceCode:
+location: SEProject\phase3\apartmentReservation
+
+Database
+aptres.sql:
+location: SEProject\resources

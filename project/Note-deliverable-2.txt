@@ -1,0 +1,5 @@
+Deliverable-2.docx
+location: SEProject\project_reports\Deliverable-2.docx
+
+WireFrames
+location: SEProject\resources\Wireframes

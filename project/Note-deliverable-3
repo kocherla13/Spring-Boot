@@ -1,0 +1,12 @@
+inspection-code-cloud9
+location: SEProject
+
+Report
+location: SEProject\project_reports\Report.docx
+
+SourceCode:
+location: SEProject\phase1\apartmentReservation
+
+aptres.sql:
+location: SEProject\resources
+
